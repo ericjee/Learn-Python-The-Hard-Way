@@ -1,0 +1,7 @@
+print "Hello World!"
+print "Hello again"
+print "I don't like type this stupid message"
+print "So stupid"
+print "Yay ! Printing"
+print "I'd much rather you 'not'."
+print "Run the App"
